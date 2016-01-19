@@ -6,8 +6,8 @@ function createIniFile($path) {
     $base = array(
         'Name' => 'Twitch Icons via SpazTwitch',
         'Description' => 'Thanks to twitchemotes.com for the API.',
-        'Icon' => 'kappa.png',
-        'Author' => 'Omnisloth'
+        'Icon' => '25.png',
+        'Author' => 'Omnifox'
     );
 
     foreach ($base as $k => $v) {
